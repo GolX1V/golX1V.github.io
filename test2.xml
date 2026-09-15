@@ -1,0 +1,99 @@
+<shop version="2.0" date="2026-09-11 17:03:46">
+	<company>ОАО "Центро-клиник Мультимед"</company>
+	<name>Тестовая клиника</name>
+	<url>example.ru</url>
+	<picture>1</picture>
+	<doctors>
+		<doctor id="ac30e13a-3087-11dc-8594-005056c00008">
+			<internal_id>ac30e13a-3087-11dc-8594-005056c00008</internal_id>
+			<name>Барбышева Евгения Петровна</name>
+			<first_name>Евгения</first_name>
+			<surname>Барбышева</surname>
+			<patronymic>Петровна</patronymic>
+			<career_start_date>2016-09-08</career_start_date>
+			<experience_years>10</experience_years>
+		</doctor>
+		<doctor id="2eb1f97b-6a3c-11e9-936d-1856809fe650">
+			<internal_id>2eb1f97b-6a3c-11e9-936d-1856809fe650</internal_id>
+			<name>Безногов Юрий Сергеевич</name>
+			<first_name>Юрий</first_name>
+			<surname>Безногов</surname>
+			<patronymic>Сергеевич</patronymic>
+			<career_start_date>2025-09-02</career_start_date>
+			<experience_years>1</experience_years>
+			<url>123</url>
+		</doctor>
+		<doctor id="99868528-0928-11dc-93d1-0004614ae652">
+			<internal_id>99868528-0928-11dc-93d1-0004614ae652</internal_id>
+			<name>Денисов Дмитрий Алексеевич</name>
+			<first_name>Дмитрий</first_name>
+			<surname>Денисов</surname>
+			<patronymic>Алексеевич</patronymic>
+		</doctor>
+		<doctor id="e7005e6d-65c9-11e9-936d-1856809fe650">
+			<internal_id>e7005e6d-65c9-11e9-936d-1856809fe650</internal_id>
+			<name>Красильникова Наталья Семеновна</name>
+			<first_name>Наталья</first_name>
+			<surname>Красильникова</surname>
+			<patronymic>Семеновна</patronymic>
+		</doctor>
+		<doctor id="d273f6d8-b037-11e8-82b2-40167e631f2e">
+			<internal_id>d273f6d8-b037-11e8-82b2-40167e631f2e</internal_id>
+			<name>Крылатова Елена Геннадиевна</name>
+			<first_name>Елена</first_name>
+			<surname>Крылатова</surname>
+			<patronymic>Геннадиевна</patronymic>
+		</doctor>
+		<doctor id="fd97dd1e-5267-11f0-b6a0-047c16e9b1ca">
+			<internal_id>fd97dd1e-5267-11f0-b6a0-047c16e9b1ca</internal_id>
+			<name>Наркомова Нина</name>
+			<first_name>Нина</first_name>
+			<surname>Наркомова</surname>
+			<patronymic>Марковна</patronymic>
+		</doctor>
+		<doctor id="22582080-c3d7-11e9-9380-50af73235947">
+			<internal_id>22582080-c3d7-11e9-9380-50af73235947</internal_id>
+			<name>Никонова Елена Павловна</name>
+			<first_name>Елена</first_name>
+			<surname>Никонова</surname>
+			<patronymic>Павловна</patronymic>
+		</doctor>
+		<doctor id="9e8b672a-9975-11e3-87ec-002618dcef2c">
+			<internal_id>9e8b672a-9975-11e3-87ec-002618dcef2c</internal_id>
+			<name>Скрипко Юлия Александровна</name>
+			<first_name>Юлия</first_name>
+			<surname>Скрипко</surname>
+			<patronymic>Александровна</patronymic>
+		</doctor>
+		<doctor id="eab46ee6-94b1-11e3-87ec-002618dcef2c">
+			<internal_id>eab46ee6-94b1-11e3-87ec-002618dcef2c</internal_id>
+			<name>Филатова Мария Сергеевна</name>
+			<first_name>Мария</first_name>
+			<surname>Филатова</surname>
+			<patronymic>Сергеевна</patronymic>
+		</doctor>
+	</doctors>
+	<clinics>
+		<clinic id="f679444a-22b7-11df-8618-002618dcef2c">
+			<name>Тестовая клиника</name>
+			<url>example.ru</url>
+			<picture>1</picture>
+			<phone>(351) 003-03-03</phone>
+			<city>г Челябинск</city>
+			<address>ул Черкасская Дом 2</address>
+			<internal_id>f679444a-22b7-11df-8618-002618dcef2c</internal_id>
+			<company_id>123</company_id>
+		</clinic>
+	</clinics>
+	<services>
+		<service id="ccb416f8-fbab-11e9-82c4-40167e631f2e">
+			<name/>
+			<internal_id>ccb416f8-fbab-11e9-82c4-40167e631f2e</internal_id>
+		</service>
+		<service id="a0230570-3ef7-11de-8086-001485c0d477">
+			<name>Массаж век</name>
+			<internal_id>a0230570-3ef7-11de-8086-001485c0d477</internal_id>
+		</service>
+	</services>
+	<offers/>
+</shop>
