@@ -1,0 +1,1370 @@
+﻿<shop version="2.0" date="2026-09-17 15:24:50">
+	<company>Общество с ограниченной ответственностью "ЕЛЕНА ПЛЮС"</company>
+	<name>ООО Елена Плюс</name>
+	<url>https://clinicaelena.ru</url>
+	<picture>https://golx1v.github.io/fav.png</picture>
+	<doctors>
+		<doctor id="fa6a7e46-3d5c-11f1-b75d-005056814c31">
+			<internal_id>fa6a7e46-3d5c-11f1-b75d-005056814c31</internal_id>
+			<name>Абранян Моника Артошовна</name>
+			<first_name>Моника</first_name>
+			<surname>Абранян</surname>
+			<patronymic>Артушовна</patronymic>
+		</doctor>
+		<doctor id="bee422e8-1ac5-11f0-b758-005056814c31">
+			<internal_id>bee422e8-1ac5-11f0-b758-005056814c31</internal_id>
+			<name>Аваева Анна Александровна</name>
+			<first_name>Анна</first_name>
+			<surname>Аваева</surname>
+			<patronymic>Александровна</patronymic>
+			<url>https://clinicaelena.ru/kosmetolog-avaeva</url>
+		</doctor>
+		<doctor id="d54c846e-fa9d-11f0-b75d-005056814c31">
+			<internal_id>d54c846e-fa9d-11f0-b75d-005056814c31</internal_id>
+			<name>Алексеева Елена Павловна</name>
+			<first_name>Елена</first_name>
+			<surname>Алексеева</surname>
+			<patronymic>Павловна</patronymic>
+		</doctor>
+		<doctor id="4d9ee289-5be8-11f0-b75a-005056814c31">
+			<internal_id>4d9ee289-5be8-11f0-b75a-005056814c31</internal_id>
+			<name>Анисиферова Алёна Анатольевна</name>
+			<first_name>Алёна</first_name>
+			<surname>Анисиферова</surname>
+			<patronymic>Анатольевна</patronymic>
+		</doctor>
+		<doctor id="52fdb389-7e83-41ab-af10-5414c2dd2720">
+			<internal_id>52fdb389-7e83-41ab-af10-5414c2dd2720</internal_id>
+			<name>Афанасьева Инна Вячеславовна</name>
+			<first_name>Инна</first_name>
+			<surname>Афанасьева</surname>
+			<patronymic>Вячеславовна</patronymic>
+			<url>https://clinicaelena.ru/doctor-afanaseva#priem_form</url>
+		</doctor>
+		<doctor id="e6d32966-cb54-11f0-b75b-005056814c31">
+			<internal_id>e6d32966-cb54-11f0-b75b-005056814c31</internal_id>
+			<name>Бабичева Татьяна Александровна</name>
+			<first_name>Татьяна</first_name>
+			<surname>Бабичева</surname>
+			<patronymic>Александровна</patronymic>
+		</doctor>
+		<doctor id="701e3ed4-ce80-45e7-8029-706e5cbc43b5">
+			<internal_id>701e3ed4-ce80-45e7-8029-706e5cbc43b5</internal_id>
+			<name>Бакшеева Екатерина Сергеевна</name>
+			<first_name>Екатерина</first_name>
+			<surname>Бакшеева</surname>
+			<patronymic>Сергеевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-baksheeva</url>
+		</doctor>
+		<doctor id="e4f72357-1a9c-11f0-b758-005056814c31">
+			<internal_id>e4f72357-1a9c-11f0-b758-005056814c31</internal_id>
+			<name>Белан Ирина Николаевна</name>
+			<first_name>Ирина</first_name>
+			<surname>Белан</surname>
+			<patronymic>Николаевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-belan</url>
+		</doctor>
+		<doctor id="48611cc3-4ab7-11f1-b75d-005056814c31">
+			<internal_id>48611cc3-4ab7-11f1-b75d-005056814c31</internal_id>
+			<name>Белоусова Алия Серыковна</name>
+			<first_name>Алия</first_name>
+			<surname>Белоусова</surname>
+			<patronymic>Серыковна</patronymic>
+		</doctor>
+		<doctor id="f4a1840d-cbd3-4193-b975-c492ce4b8df4">
+			<internal_id>f4a1840d-cbd3-4193-b975-c492ce4b8df4</internal_id>
+			<name>Бешли Наталья Евгеньевна</name>
+			<first_name>Наталья</first_name>
+			<surname>Бешли</surname>
+			<patronymic>Евгеньевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-beshli</url>
+		</doctor>
+		<doctor id="2312f94e-3792-11f0-b75a-005056814c31">
+			<internal_id>2312f94e-3792-11f0-b75a-005056814c31</internal_id>
+			<name>Бешли Орхан Рафетович</name>
+			<first_name>Орхан</first_name>
+			<surname>Бешли</surname>
+			<patronymic>Рафетович</patronymic>
+			<url>https://clinicaelena.ru/doctor-beshliorhan</url>
+		</doctor>
+		<doctor id="baad588b-8e3f-4c4f-8c34-bfe3f7261859">
+			<internal_id>baad588b-8e3f-4c4f-8c34-bfe3f7261859</internal_id>
+			<name>Бобошко Олеся Александровна</name>
+			<first_name>Олеся</first_name>
+			<surname>Бобошко</surname>
+			<patronymic>Александровна</patronymic>
+			<url>https://clinicaelena.ru/doktor-bobshko</url>
+		</doctor>
+		<doctor id="53b1423a-8952-46ef-8c95-79eb9aa41fc7">
+			<internal_id>53b1423a-8952-46ef-8c95-79eb9aa41fc7</internal_id>
+			<name>Бортник Полина Игоревна</name>
+			<first_name>Полина</first_name>
+			<surname>Бортник</surname>
+			<patronymic>Игоревна</patronymic>
+			<url>https://clinicaelena.ru/doctor-bortnik</url>
+		</doctor>
+		<doctor id="16456c52-57ea-11f0-b75a-005056814c31">
+			<internal_id>16456c52-57ea-11f0-b75a-005056814c31</internal_id>
+			<name>Вачадзе Тамара Джамбуловна</name>
+			<first_name>Тамара</first_name>
+			<surname>Вачадзе</surname>
+			<patronymic>Джамбуловна</patronymic>
+			<url>https://clinicaelena.ru/doctor-vachadze</url>
+		</doctor>
+		<doctor id="8378d451-468c-478e-acfc-8429cb979ed9">
+			<internal_id>8378d451-468c-478e-acfc-8429cb979ed9</internal_id>
+			<name>Волкова Валерия Алексеевна</name>
+			<first_name>Валерия</first_name>
+			<surname>Волкова</surname>
+			<patronymic>Алексеевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-volkova</url>
+		</doctor>
+		<doctor id="d5dcbacb-b3b8-11f0-b75b-005056814c31">
+			<internal_id>d5dcbacb-b3b8-11f0-b75b-005056814c31</internal_id>
+			<name>Вуйлов Максим Владимирович</name>
+			<first_name>Максим</first_name>
+			<surname>Вуйлов</surname>
+			<patronymic>Владимирович</patronymic>
+			<url>https://clinicaelena.ru/doctor-vuylov</url>
+		</doctor>
+		<doctor id="c9084813-16ef-4da7-a7e4-a528d5a45554">
+			<internal_id>c9084813-16ef-4da7-a7e4-a528d5a45554</internal_id>
+			<name>Галанцева Елена Юрьевна</name>
+			<first_name>Елена</first_name>
+			<surname>Галанцева</surname>
+			<patronymic>Юрьевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-galantceva</url>
+		</doctor>
+		<doctor id="7cd117ca-ba55-46bc-b0ac-1d90d45e1711">
+			<internal_id>7cd117ca-ba55-46bc-b0ac-1d90d45e1711</internal_id>
+			<name>Герасимова Лариса Владимировна</name>
+			<first_name>Лариса</first_name>
+			<surname>Герасимова</surname>
+			<patronymic>Владимировна</patronymic>
+		</doctor>
+		<doctor id="3fbab7bd-81c3-11f1-b75d-005056814c31">
+			<internal_id>3fbab7bd-81c3-11f1-b75d-005056814c31</internal_id>
+			<name>Демченко Вячеслав Юрьевич</name>
+			<first_name>Вячеслав</first_name>
+			<surname>Демченко</surname>
+			<patronymic>Юрьевич</patronymic>
+		</doctor>
+		<doctor id="c57f87d7-e568-11f0-b75d-005056814c31">
+			<internal_id>c57f87d7-e568-11f0-b75d-005056814c31</internal_id>
+			<name>Дитлер (Фурманова) Кристина Александровна</name>
+			<first_name>Кристина</first_name>
+			<surname>Дитлер (Фурманова)</surname>
+			<patronymic>Александровна</patronymic>
+		</doctor>
+		<doctor id="41880479-d7a7-4e4d-8522-3c303a05e3d9">
+			<internal_id>41880479-d7a7-4e4d-8522-3c303a05e3d9</internal_id>
+			<name>Долгалев Евгений Камалович</name>
+			<first_name>Евгений</first_name>
+			<surname>Долгалев</surname>
+			<patronymic>Камалович</patronymic>
+			<url>https://clinicaelena.ru/doctor-dolgalev</url>
+		</doctor>
+		<doctor id="c03b7206-20fb-4759-b138-5194733f9879">
+			<internal_id>c03b7206-20fb-4759-b138-5194733f9879</internal_id>
+			<name>Дуботовкина Татьяна Эмануиловна</name>
+			<first_name>Татьяна</first_name>
+			<surname>Дуботовкина</surname>
+			<patronymic>Эмануиловна</patronymic>
+		</doctor>
+		<doctor id="730135bc-9c7d-4e80-996c-f8df290d836e">
+			<internal_id>730135bc-9c7d-4e80-996c-f8df290d836e</internal_id>
+			<name>Едемская Наталья Андреевна</name>
+			<first_name>Наталья</first_name>
+			<surname>Едемская</surname>
+			<patronymic>Андреевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-edemskaya</url>
+		</doctor>
+		<doctor id="28847e8b-8b32-4580-8b09-e7be6651556b">
+			<internal_id>28847e8b-8b32-4580-8b09-e7be6651556b</internal_id>
+			<name>Елисеенко Ирина Владимировна</name>
+			<first_name>Ирина</first_name>
+			<surname>Елисеенко</surname>
+			<patronymic>Владимировна</patronymic>
+			<url>https://clinicaelena.ru/doctor-eliseenko</url>
+		</doctor>
+		<doctor id="72b63cca-1aad-11f0-b758-005056814c31">
+			<internal_id>72b63cca-1aad-11f0-b758-005056814c31</internal_id>
+			<name>Емельянова Валентина Сергеевна</name>
+			<first_name>Валентина</first_name>
+			<surname>Емельянова</surname>
+			<patronymic>Сергеевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-emelyanova</url>
+		</doctor>
+		<doctor id="1a1afa7b-1c64-11f1-b75d-005056814c31">
+			<internal_id>1a1afa7b-1c64-11f1-b75d-005056814c31</internal_id>
+			<name>Емелюшина Ирина Петровна</name>
+			<first_name>Ирина</first_name>
+			<surname>Емелюшина</surname>
+			<patronymic>Петровна</patronymic>
+		</doctor>
+		<doctor id="b12ff883-352f-11f0-b75a-005056814c31">
+			<internal_id>b12ff883-352f-11f0-b75a-005056814c31</internal_id>
+			<name>Жеманова Анастасия Николаевна</name>
+			<first_name>Анастасия</first_name>
+			<surname>Жеманова</surname>
+			<patronymic>Николаевна</patronymic>
+		</doctor>
+		<doctor id="54c996af-b557-11f0-b75b-005056814c31">
+			<internal_id>54c996af-b557-11f0-b75b-005056814c31</internal_id>
+			<name>Золоева Олеся Сергеевна</name>
+			<first_name>Олеся</first_name>
+			<surname>Золоева</surname>
+			<patronymic>Сергеевна</patronymic>
+		</doctor>
+		<doctor id="3e104999-228b-446b-9917-defebdcf8125">
+			<internal_id>3e104999-228b-446b-9917-defebdcf8125</internal_id>
+			<name>Кайдулатов Нурлан Дурболонович</name>
+			<first_name>Нурлан</first_name>
+			<surname>Кайдулатов</surname>
+			<patronymic>Дурболонович</patronymic>
+			<url>https://clinicaelena.ru/doctor-kaidulatov</url>
+		</doctor>
+		<doctor id="c32e7261-751c-11f1-b75d-005056814c31">
+			<internal_id>c32e7261-751c-11f1-b75d-005056814c31</internal_id>
+			<name>Калина Анастасия Эдуардовна</name>
+			<first_name>Анастасия</first_name>
+			<surname>Калина</surname>
+			<patronymic>Эдуардовна</patronymic>
+		</doctor>
+		<doctor id="def6271b-01e3-4b5b-932a-cd4604e48682">
+			<internal_id>def6271b-01e3-4b5b-932a-cd4604e48682</internal_id>
+			<name>Кобзева Валентина Валерьевна</name>
+			<first_name>Валентина</first_name>
+			<surname>Кобзева</surname>
+			<patronymic>Валерьевна</patronymic>
+			<url>https://clinicaelena.ru/kosmetolog-kobzeva</url>
+		</doctor>
+		<doctor id="5512580f-1aaa-11f0-b758-005056814c31">
+			<internal_id>5512580f-1aaa-11f0-b758-005056814c31</internal_id>
+			<name>Козяков Антон Евгеньевич</name>
+			<first_name>Антон</first_name>
+			<surname>Козяков</surname>
+			<patronymic>Евгеньевич</patronymic>
+			<url>https://clinicaelena.ru/doctor-kozyakov</url>
+		</doctor>
+		<doctor id="3b6c3439-1aa4-11f0-b758-005056814c31">
+			<internal_id>3b6c3439-1aa4-11f0-b758-005056814c31</internal_id>
+			<name>Копылова Наталья Михайловна</name>
+			<first_name>Наталья</first_name>
+			<surname>Копылова</surname>
+			<patronymic>Михайловна</patronymic>
+			<url>https://clinicaelena.ru/doctor-kopylova</url>
+		</doctor>
+		<doctor id="d342497c-1c63-11f1-b75d-005056814c31">
+			<internal_id>d342497c-1c63-11f1-b75d-005056814c31</internal_id>
+			<name>Кравченко Мария Валерьевна</name>
+			<first_name>Мария</first_name>
+			<surname>Кравченко</surname>
+			<patronymic>Валерьевна</patronymic>
+		</doctor>
+		<doctor id="280a3f31-d64e-401c-9dc8-e261a401aa98">
+			<internal_id>280a3f31-d64e-401c-9dc8-e261a401aa98</internal_id>
+			<name>Кременская Вероника Алексеевна</name>
+			<first_name>Вероника</first_name>
+			<surname>Кременская</surname>
+			<patronymic>Алексеевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-kremenskaya</url>
+		</doctor>
+		<doctor id="b4c67a54-1aaa-11f0-b758-005056814c31">
+			<internal_id>b4c67a54-1aaa-11f0-b758-005056814c31</internal_id>
+			<name>Ломакин Алексей Игоревич</name>
+			<first_name>Алексей</first_name>
+			<surname>Ломакин</surname>
+			<patronymic>Игоревич</patronymic>
+			<url>https://clinicaelena.ru/doctor-lomakin</url>
+		</doctor>
+		<doctor id="c6c9527a-4ab7-11f1-b75d-005056814c31">
+			<internal_id>c6c9527a-4ab7-11f1-b75d-005056814c31</internal_id>
+			<name>Лучинина Мария Васильевна</name>
+			<first_name>Мария</first_name>
+			<surname>Лучинина</surname>
+			<patronymic>Васильевна</patronymic>
+		</doctor>
+		<doctor id="03167cae-d397-44b3-8956-a31029c686f9">
+			<internal_id>03167cae-d397-44b3-8956-a31029c686f9</internal_id>
+			<name>Мезенцев Евгений Евгеньевич</name>
+			<first_name>Евгений</first_name>
+			<surname>Мезенцев</surname>
+			<patronymic>Евгеньевич</patronymic>
+		</doctor>
+		<doctor id="e23d55d9-5be7-11f0-b75a-005056814c31">
+			<internal_id>e23d55d9-5be7-11f0-b75a-005056814c31</internal_id>
+			<name>Мезенцева Лариса Валерьевна</name>
+			<first_name>Лариса</first_name>
+			<surname>Мезенцева</surname>
+			<patronymic>Валерьевна</patronymic>
+		</doctor>
+		<doctor id="f0dbe532-e56c-11f0-b75d-005056814c31">
+			<internal_id>f0dbe532-e56c-11f0-b75d-005056814c31</internal_id>
+			<name>Миллер Вероника Сергеевна</name>
+			<first_name>Вероника</first_name>
+			<surname>Миллер</surname>
+			<patronymic>Сергеевна</patronymic>
+		</doctor>
+		<doctor id="290f0d79-5be7-11f0-b75a-005056814c31">
+			<internal_id>290f0d79-5be7-11f0-b75a-005056814c31</internal_id>
+			<name>Павловская Татьяна Петровна</name>
+			<first_name>Татьяна</first_name>
+			<surname>Павловская</surname>
+			<patronymic>Петровна</patronymic>
+		</doctor>
+		<doctor id="12de7b86-1aa0-11f0-b758-005056814c31">
+			<internal_id>12de7b86-1aa0-11f0-b758-005056814c31</internal_id>
+			<name>Павлюк Надежда Михайловна</name>
+			<first_name>Надежда</first_name>
+			<surname>Павлюк</surname>
+			<patronymic>Михайловна</patronymic>
+			<url>https://clinicaelena.ru/doctot-pavluk</url>
+		</doctor>
+		<doctor id="4fd522dd-1aab-11f0-b758-005056814c31">
+			<internal_id>4fd522dd-1aab-11f0-b758-005056814c31</internal_id>
+			<name>Пазилов Айбек Хусниддинович</name>
+			<first_name>Айбек</first_name>
+			<surname>Пазилов</surname>
+			<patronymic>Хусниддинович</patronymic>
+			<url>https://clinicaelena.ru/doctor-pazilov</url>
+		</doctor>
+		<doctor id="5bff002f-7136-11f1-b75d-005056814c31">
+			<internal_id>5bff002f-7136-11f1-b75d-005056814c31</internal_id>
+			<name>Понкратова Яна Игоревна</name>
+			<first_name>Яна</first_name>
+			<surname>Понкратова</surname>
+			<patronymic>Игоревна</patronymic>
+		</doctor>
+		<doctor id="caf4dcf0-1aaa-11f0-b758-005056814c31">
+			<internal_id>caf4dcf0-1aaa-11f0-b758-005056814c31</internal_id>
+			<name>Рекеда Ирина Анатольевна</name>
+			<first_name>Ирина</first_name>
+			<surname>Рекеда</surname>
+			<patronymic>Анатольевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-rekeda</url>
+		</doctor>
+		<doctor id="49837ced-1ae6-4a17-b6a8-bb1275e70195">
+			<internal_id>49837ced-1ae6-4a17-b6a8-bb1275e70195</internal_id>
+			<name>Рожкова Елена Александровна</name>
+			<first_name>Елена</first_name>
+			<surname>Рожкова</surname>
+			<patronymic>Александровна</patronymic>
+			<url>https://clinicaelena.ru/rozhkova-elena-aleksandrovna#priem_form</url>
+		</doctor>
+		<doctor id="8ca641e9-1aaf-11f0-b758-005056814c31">
+			<internal_id>8ca641e9-1aaf-11f0-b758-005056814c31</internal_id>
+			<name>Савченко Татьяна Алексеевна</name>
+			<first_name>Татьяна</first_name>
+			<surname>Савченко</surname>
+			<patronymic>Алексеевна</patronymic>
+		</doctor>
+		<doctor id="57450fa7-60cb-11f1-b75d-005056814c31">
+			<internal_id>57450fa7-60cb-11f1-b75d-005056814c31</internal_id>
+			<name>Санжарова Олеся Анатольевна</name>
+			<first_name>Олеся</first_name>
+			<surname>Санжарова</surname>
+			<patronymic>Анатольевна</patronymic>
+		</doctor>
+		<doctor id="db73439e-71d5-4cc7-ab4b-ef47a55856b9">
+			<internal_id>db73439e-71d5-4cc7-ab4b-ef47a55856b9</internal_id>
+			<name>Слинченко Игорь Иванович</name>
+			<first_name>Игорь</first_name>
+			<surname>Слинченко</surname>
+			<patronymic>Иванович</patronymic>
+		</doctor>
+		<doctor id="1afb02e5-b55b-11f0-b75b-005056814c31">
+			<internal_id>1afb02e5-b55b-11f0-b75b-005056814c31</internal_id>
+			<name>Третьякова Ольга Сергеевна</name>
+			<first_name>Ольга</first_name>
+			<surname>Третьякова</surname>
+			<patronymic>Сергеевна</patronymic>
+		</doctor>
+		<doctor id="3ce1c862-1aa0-11f0-b758-005056814c31">
+			<internal_id>3ce1c862-1aa0-11f0-b758-005056814c31</internal_id>
+			<name>Федченко Евгения Викторовна</name>
+			<first_name>Евгения</first_name>
+			<surname>Федченко</surname>
+			<patronymic>Викторовна</patronymic>
+			<url>https://clinicaelena.ru/doctor-fedchenko</url>
+		</doctor>
+		<doctor id="87609311-5be8-11f0-b75a-005056814c31">
+			<internal_id>87609311-5be8-11f0-b75a-005056814c31</internal_id>
+			<name>Фисюра Татьяна Николаевна</name>
+			<first_name>Татьяна</first_name>
+			<surname>Фисюра</surname>
+			<patronymic>Николаевна</patronymic>
+		</doctor>
+		<doctor id="e5c8f9f8-1ac5-11f0-b758-005056814c31">
+			<internal_id>e5c8f9f8-1ac5-11f0-b758-005056814c31</internal_id>
+			<name>Фролова Марина Геннадьевна</name>
+			<first_name>Марина</first_name>
+			<surname>Фролова</surname>
+			<patronymic>Геннадьевна</patronymic>
+			<url>https://clinicaelena.ru/medsestra_frolova</url>
+		</doctor>
+		<doctor id="2c493477-b300-11f0-b75b-005056814c31">
+			<internal_id>2c493477-b300-11f0-b75b-005056814c31</internal_id>
+			<name>Фунтикова Инна Сергеевна</name>
+			<first_name>Инна</first_name>
+			<surname>Фунтикова</surname>
+			<patronymic>Сергеевна</patronymic>
+			<url>https://clinicaelena.ru/doctor-funtikova</url>
+		</doctor>
+		<doctor id="a3531765-1aab-11f0-b758-005056814c31">
+			<internal_id>a3531765-1aab-11f0-b758-005056814c31</internal_id>
+			<name>Хан Вячеслав Сергеевич</name>
+			<first_name>Вячеслав</first_name>
+			<surname>Хан</surname>
+			<patronymic>Сергеевич</patronymic>
+			<url>https://clinicaelena.ru/doctor-han</url>
+		</doctor>
+		<doctor id="8687c48b-1ab0-11f0-b758-005056814c31">
+			<internal_id>8687c48b-1ab0-11f0-b758-005056814c31</internal_id>
+			<name>Цинько Надежда Сергеевна</name>
+			<first_name>Надежда</first_name>
+			<surname>Цинько</surname>
+			<patronymic>Сергеевна</patronymic>
+		</doctor>
+		<doctor id="f01aba43-1aaa-11f0-b758-005056814c31">
+			<internal_id>f01aba43-1aaa-11f0-b758-005056814c31</internal_id>
+			<name>Шевченко Оксана Михайловна</name>
+			<first_name>Оксана</first_name>
+			<surname>Шевченко</surname>
+			<patronymic>Михайловна</patronymic>
+			<url>https://clinicaelena.ru/doctor-shevchenko</url>
+		</doctor>
+		<doctor id="9eaff35b-4718-4d53-a8d7-6add844d8ed3">
+			<internal_id>9eaff35b-4718-4d53-a8d7-6add844d8ed3</internal_id>
+			<name>Шкуриха Анна Викторовна</name>
+			<first_name>Анна</first_name>
+			<surname>Шкуриха</surname>
+			<patronymic>Викторовна</patronymic>
+			<url>https://clinicaelena.ru/kosmetolog-shkurikha</url>
+		</doctor>
+		<doctor id="65588dd7-4429-48b2-9bec-3d9cdee1fcf5">
+			<internal_id>65588dd7-4429-48b2-9bec-3d9cdee1fcf5</internal_id>
+			<name>Шуткова Анастасия Анатольевна</name>
+			<first_name>Анастасия</first_name>
+			<surname>Шуткова</surname>
+			<patronymic>Анатольевна</patronymic>
+			<url>https://clinicaelena.ru/kosmetolog-shutkova</url>
+		</doctor>
+		<doctor id="73a9e057-22b8-11f1-b75d-005056814c31">
+			<internal_id>73a9e057-22b8-11f1-b75d-005056814c31</internal_id>
+			<name>Якунина Оксана Халиговна</name>
+			<first_name>Оксана</first_name>
+			<surname>Якунина</surname>
+			<patronymic>Халиговна</patronymic>
+			<url>https://clinicaelena.ru/doctor-yakunina</url>
+		</doctor>
+	</doctors>
+	<clinics>
+		<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+			<name>ООО Елена Плюс</name>
+			<url>https://clinicaelena.ru</url>
+			<picture>https://golx1v.github.io/fav.png</picture>
+			<city>Новосибирская область</city>
+			<address>Сакко и Ванцетти Дом 77</address>
+			<internal_id>51e534de-f7ef-11ef-b758-005056814c31</internal_id>
+			<company_id>99229077775</company_id>
+		</clinic>
+		<clinic id="6ceaab60-fe33-11ef-b758-005056814c31">
+			<name>ООО Елена Плюс</name>
+			<url>https://clinicaelena.ru</url>
+			<picture>https://golx1v.github.io/fav.png</picture>
+			<city>Новосибирская область</city>
+			<address>Максима Горького Дом 79</address>
+			<internal_id>6ceaab60-fe33-11ef-b758-005056814c31</internal_id>
+			<company_id>1082467585</company_id>
+		</clinic>
+		<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+			<name>ООО Елена Плюс</name>
+			<url>https://clinicaelena.ru</url>
+			<picture>https://golx1v.github.io/fav.png</picture>
+			<city>Новосибирская область</city>
+			<address>проспект Академика Коптюга Дом 9</address>
+			<internal_id>bf8b647b-fe33-11ef-b758-005056814c31</internal_id>
+			<company_id>1193680933</company_id>
+		</clinic>
+	</clinics>
+	<services>
+		<service id="5ff0ee3e-c6a0-11ea-80f1-002590e93631">
+			<name>Прием (осмотр, консультация) терапевта повторная</name>
+			<internal_id>5ff0ee3e-c6a0-11ea-80f1-002590e93631</internal_id>
+		</service>
+		<service id="924e10b4-7c08-11eb-80f9-002590e93631">
+			<name>Консультация врача-косметолога по акне/розацеи/пигментации</name>
+			<gov_id>B01.008.003</gov_id>
+			<internal_id>924e10b4-7c08-11eb-80f9-002590e93631</internal_id>
+		</service>
+		<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b">
+			<name>Консультация пластического хирурга</name>
+			<internal_id>3f121bdb-8cd6-11e0-9cf1-002354b4d18b</internal_id>
+		</service>
+		<service id="41463b8a-31d3-11ee-8162-002590e93631">
+			<name>Консультация врача-косметолога по омоложению</name>
+			<internal_id>41463b8a-31d3-11ee-8162-002590e93631</internal_id>
+		</service>
+		<service id="6dbecb7d-3c6b-11f1-b75d-005056814c31">
+			<name>Консультация гинеколога (Бобошко О.А.)</name>
+			<internal_id>6dbecb7d-3c6b-11f1-b75d-005056814c31</internal_id>
+		</service>
+		<service id="5c2cacc4-7924-11e8-80dc-002590e93631">
+			<name>Эндосфера-терапия</name>
+			<internal_id>5c2cacc4-7924-11e8-80dc-002590e93631</internal_id>
+		</service>
+		<service id="217338e0-8ea9-11ea-80f1-002590e93631">
+			<name>Консультация оториноларинголога, к.м.н.</name>
+			<internal_id>217338e0-8ea9-11ea-80f1-002590e93631</internal_id>
+		</service>
+		<service id="1da54930-2388-11e9-80de-002590e93631">
+			<name>Консультация гинеколога</name>
+			<internal_id>1da54930-2388-11e9-80de-002590e93631</internal_id>
+		</service>
+		<service id="62e894da-cc02-11ea-80f1-002590e93631">
+			<name>Консультация терапевта</name>
+			<internal_id>62e894da-cc02-11ea-80f1-002590e93631</internal_id>
+		</service>
+		<service id="aaaaaf12-e68c-11e9-80ef-002590e93631">
+			<name>УЗИ органов брюшной полости взрослого (печень, ж/пузырь, поджелуд/железа, селезенка)</name>
+			<internal_id>aaaaaf12-e68c-11e9-80ef-002590e93631</internal_id>
+		</service>
+		<service id="2aaa3fa4-21ce-11ec-8108-002590e93631">
+			<name>Консультация онколога-маммолога, к.м.н.</name>
+			<internal_id>2aaa3fa4-21ce-11ec-8108-002590e93631</internal_id>
+		</service>
+		<service id="0f5fe4a0-6e30-11e8-80dc-002590e93631">
+			<name>Консультация онколога, к.м.н. по новообразованиям кожи</name>
+			<internal_id>0f5fe4a0-6e30-11e8-80dc-002590e93631</internal_id>
+		</service>
+		<service id="3a5e6b8a-1b1f-11ee-815e-002590e93631">
+			<name>Консультация онколога-маммолога</name>
+			<internal_id>3a5e6b8a-1b1f-11ee-815e-002590e93631</internal_id>
+		</service>
+		<service id="d5e65753-6df9-11f1-b75d-005056814c31">
+			<name>Термовоздействие аппаратом INDIBA по лицу (30 минут)</name>
+			<internal_id>d5e65753-6df9-11f1-b75d-005056814c31</internal_id>
+		</service>
+		<service id="ade3b58c-90ec-11e9-80e2-002590e93631">
+			<name>Консультация эндокринолога</name>
+			<internal_id>ade3b58c-90ec-11e9-80e2-002590e93631</internal_id>
+		</service>
+		<service id="709f5248-f5ed-11f0-b75d-005056814c31">
+			<name>Консультация оториноларинголога, к.м.н., с видеоэндоскопией (Фунтикова И.С.)</name>
+			<internal_id>709f5248-f5ed-11f0-b75d-005056814c31</internal_id>
+		</service>
+	</services>
+	<offers>
+		<offer id="e17ade14-4b1c-4652-9ce5-ad3e346f64bf">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="1da54930-2388-11e9-80de-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="52fdb389-7e83-41ab-af10-5414c2dd2720">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="0aa6fd28-6e99-4ac3-acc6-f7ed841c3399">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="1da54930-2388-11e9-80de-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="52fdb389-7e83-41ab-af10-5414c2dd2720">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="f9b8a3a4-ac2e-4ddf-9602-2988adae526c">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="924e10b4-7c08-11eb-80f9-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="701e3ed4-ce80-45e7-8029-706e5cbc43b5">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="516e1001-94e1-4006-ad05-45250e730702">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4000</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="924e10b4-7c08-11eb-80f9-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="701e3ed4-ce80-45e7-8029-706e5cbc43b5">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="0a49ea27-ade3-41ce-ac33-6b2dbda9b6cc">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="e4f72357-1a9c-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="265eb101-d79f-4c77-8b88-264e7ddecab1">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="e4f72357-1a9c-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="c41f472b-424c-48ff-855d-986260135a08">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="f4a1840d-cbd3-4193-b975-c492ce4b8df4">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="cd811ce0-6824-47c4-b0f6-27654845ed12">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="f4a1840d-cbd3-4193-b975-c492ce4b8df4">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="ddd7012b-5e33-4872-b2c0-19b6e080b4f8">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="2312f94e-3792-11f0-b75a-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="cb76d796-ad59-4923-9fc7-e2cd1779aa07">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="2312f94e-3792-11f0-b75a-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="01ccb789-b774-4da5-bffd-28936a14e7eb">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4900</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="6dbecb7d-3c6b-11f1-b75d-005056814c31"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="baad588b-8e3f-4c4f-8c34-bfe3f7261859">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="6268355e-48ae-4141-8fc3-0055b8ea09bb">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4900</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="6dbecb7d-3c6b-11f1-b75d-005056814c31"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="baad588b-8e3f-4c4f-8c34-bfe3f7261859">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="fb43bf0e-9d40-419a-b466-15c049450545">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="53b1423a-8952-46ef-8c95-79eb9aa41fc7">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="8689d9ff-ce3c-4178-80f6-664b59e858a2">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="53b1423a-8952-46ef-8c95-79eb9aa41fc7">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="7439d939-995d-47df-b401-4d59743d4505">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="ade3b58c-90ec-11e9-80e2-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="16456c52-57ea-11f0-b75a-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="8588e825-83c9-4e09-a349-68be0ef56b76">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="ade3b58c-90ec-11e9-80e2-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="16456c52-57ea-11f0-b75a-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="caa53606-7ffa-4eda-b254-e2e45037a2f3">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="8378d451-468c-478e-acfc-8429cb979ed9">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="974d1ff9-10b6-49a0-b5f5-533935233e0a">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="8378d451-468c-478e-acfc-8429cb979ed9">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="2cab55c5-940c-490a-85d3-7d407e0d3a47">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="d5dcbacb-b3b8-11f0-b75b-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="d54fe6ce-1263-4a93-89c3-ea273f52e67b">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="d5dcbacb-b3b8-11f0-b75b-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="0785258b-7042-4e6e-a694-c38b9c97ce07">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="c9084813-16ef-4da7-a7e4-a528d5a45554">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="2f5d9066-9d86-44ff-a354-3806343d85c3">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="c9084813-16ef-4da7-a7e4-a528d5a45554">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="871406b5-1744-450a-9fcd-f41a9bf58b43">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="41880479-d7a7-4e4d-8522-3c303a05e3d9">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="ecfd4e84-5222-448a-b5ad-c36fc923608a">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="41880479-d7a7-4e4d-8522-3c303a05e3d9">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="8b095902-07a7-40ea-beaa-1fbca3c1739d">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="730135bc-9c7d-4e80-996c-f8df290d836e">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="1c91f41b-9ce5-41d5-a8e1-749bfe426889">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="730135bc-9c7d-4e80-996c-f8df290d836e">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="fce6873d-1863-4b8d-ba3f-62dae8bbe428">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="28847e8b-8b32-4580-8b09-e7be6651556b">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="85b8576c-d0e2-4269-837f-b861c857d18b">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="28847e8b-8b32-4580-8b09-e7be6651556b">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="d76d4914-d57c-4661-99f6-f151075baa83">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3700</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="217338e0-8ea9-11ea-80f1-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="3e104999-228b-446b-9917-defebdcf8125">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="cfd92fb9-23fe-4ca1-b3a4-562d91bbecf1">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3700</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="217338e0-8ea9-11ea-80f1-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="3e104999-228b-446b-9917-defebdcf8125">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="2a538640-1ae3-4928-bb45-1ff74b9def77">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4900</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="2aaa3fa4-21ce-11ec-8108-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="5512580f-1aaa-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="7a1c2d5d-1566-4cfe-bb0a-2c1cba8c75f3">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4900</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="2aaa3fa4-21ce-11ec-8108-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="5512580f-1aaa-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="65dcce1d-fe31-4852-b599-37d1d42ad3c7">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="280a3f31-d64e-401c-9dc8-e261a401aa98">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="2144ac7a-9015-4e22-b7b3-b48b6167ee11">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="280a3f31-d64e-401c-9dc8-e261a401aa98">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="8681d39e-1e7a-42f8-a8c9-1a7144956e29">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="0f5fe4a0-6e30-11e8-80dc-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="b4c67a54-1aaa-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="055172c1-eabc-4702-b1f8-6cafaf4c6967">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="0f5fe4a0-6e30-11e8-80dc-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="b4c67a54-1aaa-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="15225bb8-0140-493c-b1d5-9712546e14a3">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="1da54930-2388-11e9-80de-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="12de7b86-1aa0-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="04c26ab4-edbb-4ce1-a223-0c35824c40cb">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="1da54930-2388-11e9-80de-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="12de7b86-1aa0-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="219e7a65-93a0-49d7-b35b-7b0175bc2745">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="4fd522dd-1aab-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="4810e012-f3e8-4f15-bd18-f6befdfd3d41">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="4fd522dd-1aab-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="5fe7ec9f-7cda-4dfd-b544-ec67c8d4951f">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4300</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3a5e6b8a-1b1f-11ee-815e-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="caf4dcf0-1aaa-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="0ffd97c3-714b-452a-bf8c-4f6f3f45c090">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4300</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3a5e6b8a-1b1f-11ee-815e-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="caf4dcf0-1aaa-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="ef7e6578-71eb-445d-9c78-010ef4d25908">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="49837ced-1ae6-4a17-b6a8-bb1275e70195">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="ffb515fa-4824-43e3-b53e-1fa1dde04e53">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="49837ced-1ae6-4a17-b6a8-bb1275e70195">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="ad856619-bdb1-4a37-98b3-23458e5eb9b1">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="1da54930-2388-11e9-80de-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="3ce1c862-1aa0-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="434e4bce-adcb-47d3-b31f-8beb973cc02f">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>3500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="1da54930-2388-11e9-80de-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="3ce1c862-1aa0-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="326f4c42-fb34-4b7e-b5cd-c98cb6db6789">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="709f5248-f5ed-11f0-b75d-005056814c31"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="2c493477-b300-11f0-b75b-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="c7ebdbb2-d1bb-4347-a74a-9cfa9fe282c5">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4500</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="709f5248-f5ed-11f0-b75d-005056814c31"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="2c493477-b300-11f0-b75b-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="44e34bbe-8074-4d0a-85d3-1b29b71801e0">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="a3531765-1aab-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="cbcbdd8a-511c-4fd2-957b-5072c15d6d46">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2200</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3f121bdb-8cd6-11e0-9cf1-002354b4d18b"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="a3531765-1aab-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="ab803c04-b424-4e2e-b89d-760ca82458bd">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4300</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3a5e6b8a-1b1f-11ee-815e-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="f01aba43-1aaa-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="03f8f9bb-a365-4430-99c5-86afc14a560e">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>4300</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="3a5e6b8a-1b1f-11ee-815e-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="f01aba43-1aaa-11f0-b758-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="450dbeee-ff1a-407d-b0b1-1839341318e1">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="bf8b647b-fe33-11ef-b758-005056814c31">
+				<doctor id="73a9e057-22b8-11f1-b75d-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+		<offer id="2bc81d4d-32a9-4ccd-ac9c-ca8ca9ee4785">
+			<online_schedule>true</online_schedule>
+			<appointment>true</appointment>
+			<price>
+				<base_price>2800</base_price>
+				<currency>RUB</currency>
+			</price>
+			<service id="41463b8a-31d3-11ee-8162-002590e93631"/>
+			<clinic id="51e534de-f7ef-11ef-b758-005056814c31">
+				<doctor id="73a9e057-22b8-11f1-b75d-005056814c31">
+					<speciality>гинеколог</speciality>
+					<is_base_service>true</is_base_service>
+				</doctor>
+			</clinic>
+		</offer>
+	</offers>
+</shop>
